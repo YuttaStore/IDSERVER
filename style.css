@@ -128,7 +128,7 @@ header {
 /* General Styles for Product Cards */
 .packages {
     display: grid;
-    grid-template-columns: repeat(1, 3fr); /* 3 columns layout for larger screens */
+    grid-template-columns: repeat(3, 1fr); /* 3 columns layout for larger screens */
     gap: 1.5em;
 }
 
